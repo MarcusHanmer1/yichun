@@ -1,1 +1,1 @@
-Exam Question Generator! - readme edit soon
+Exam Question Generator! - **tool for unlimited exam questions trained**[Click here](https://yichun-ezf8hzktmnqquxnjftmfct.streamlit.app/)
